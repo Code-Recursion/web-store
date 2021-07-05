@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.15.3/css/all.css');
+
+:root {
+  --grey: #f6f6f6;
+  --white: #ffffff;
+  --yellow: #fac814;
+  --light-pink: #f2dfdc;
+  --light-green: #d9e9c2;
+  --light-blue: #cadbc9;
+}
+
+*,
+body,
+html {
+  margin: 0;
+  font-family: 'Montserrat' !important;
+  /* background-color: var(--white); */
+}
+
+/* removing blue outlines from bootstrap */
+.btn:focus,
+a:focus,
+textarea:hover,
+input:hover,
+textarea:active,
+input:active,
+textarea:focus,
+input:focus {
+  outline: 0 !important;
+  border: 0 !important;
+  box-shadow: 0 !important;
+  box-shadow: none !important;
+}
+
+.text-yellow {
+  color: var(--yellow);
+}
+
+.text-title {
+  font-size: 15px;
+}
+
+.text-description {
+  font-size: 10px;
+  padding: 0 !important;
+}
+
+.bg-grey {
+  background-color: var(--grey);
+}
