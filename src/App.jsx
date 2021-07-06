@@ -1,12 +1,18 @@
-import Home from "./components/Home"
-import './App.css';
+import Home from './components/Home'
+import Cart from './components/Cart'
+import { Switch, Route, Redirect } from 'react-router-dom'
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <Home/>
-    </div>
-  );
+    <>
+      <Switch>
+        <Route exact path='/' component={Home} />
+        <Route exact path='/home' component={Home} />
+        <Route exact path='/cart' component={Cart} />
+        <Redirect to='/' />
+      </Switch>
+    </>
+  )
 }
 
-export default App;
+export default App
