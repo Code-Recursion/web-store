@@ -1,29 +1,28 @@
 {
   "files": {
-    "main.css": "/web-store/static/css/main.88345b49.chunk.css",
-    "main.js": "/web-store/static/js/main.f21e71e0.chunk.js",
-    "main.js.map": "/web-store/static/js/main.f21e71e0.chunk.js.map",
-    "runtime-main.js": "/web-store/static/js/runtime-main.65358c0f.js",
-    "runtime-main.js.map": "/web-store/static/js/runtime-main.65358c0f.js.map",
+    "main.css": "/web-store/static/css/main.d5c1638a.chunk.css",
+    "main.js": "/web-store/static/js/main.3b4ef371.chunk.js",
+    "main.js.map": "/web-store/static/js/main.3b4ef371.chunk.js.map",
+    "runtime-main.js": "/web-store/static/js/runtime-main.250d6127.js",
+    "runtime-main.js.map": "/web-store/static/js/runtime-main.250d6127.js.map",
     "static/css/2.4771dd3b.chunk.css": "/web-store/static/css/2.4771dd3b.chunk.css",
-    "static/js/2.7881c5bd.chunk.js": "/web-store/static/js/2.7881c5bd.chunk.js",
-    "static/js/2.7881c5bd.chunk.js.map": "/web-store/static/js/2.7881c5bd.chunk.js.map",
-    "static/js/3.45aa6355.chunk.js": "/web-store/static/js/3.45aa6355.chunk.js",
-    "static/js/3.45aa6355.chunk.js.map": "/web-store/static/js/3.45aa6355.chunk.js.map",
+    "static/js/2.3489e0f3.chunk.js": "/web-store/static/js/2.3489e0f3.chunk.js",
+    "static/js/2.3489e0f3.chunk.js.map": "/web-store/static/js/2.3489e0f3.chunk.js.map",
     "index.html": "/web-store/index.html",
     "static/css/2.4771dd3b.chunk.css.map": "/web-store/static/css/2.4771dd3b.chunk.css.map",
-    "static/css/main.88345b49.chunk.css.map": "/web-store/static/css/main.88345b49.chunk.css.map",
-    "static/js/2.7881c5bd.chunk.js.LICENSE.txt": "/web-store/static/js/2.7881c5bd.chunk.js.LICENSE.txt",
+    "static/css/main.d5c1638a.chunk.css.map": "/web-store/static/css/main.d5c1638a.chunk.css.map",
+    "static/js/2.3489e0f3.chunk.js.LICENSE.txt": "/web-store/static/js/2.3489e0f3.chunk.js.LICENSE.txt",
     "static/media/add-icon.56870965.svg": "/web-store/static/media/add-icon.56870965.svg",
     "static/media/arrow-right.a3d0d4f0.svg": "/web-store/static/media/arrow-right.a3d0d4f0.svg",
     "static/media/banner-top.345e4bb1.svg": "/web-store/static/media/banner-top.345e4bb1.svg",
+    "static/media/cart-icon.7e4baaba.svg": "/web-store/static/media/cart-icon.7e4baaba.svg",
     "static/media/search-icon.bf639f15.svg": "/web-store/static/media/search-icon.bf639f15.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.65358c0f.js",
+    "static/js/runtime-main.250d6127.js",
     "static/css/2.4771dd3b.chunk.css",
-    "static/js/2.7881c5bd.chunk.js",
-    "static/css/main.88345b49.chunk.css",
-    "static/js/main.f21e71e0.chunk.js"
+    "static/js/2.3489e0f3.chunk.js",
+    "static/css/main.d5c1638a.chunk.css",
+    "static/js/main.3b4ef371.chunk.js"
   ]
 }
